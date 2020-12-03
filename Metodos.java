@@ -5,7 +5,7 @@ import javax.swing.*;
 public class Metodos {
 
     // Ejercicio 1: Escribir un método que reciba un número y retorne su doble
-
+    // ejercicio 18 practico 7 sourcetree repositorios
     public static int dobleNumero (int num) {
         num=num*2;
         return num;
